@@ -45,6 +45,72 @@ $nav = array (
     'gallery.php' => 'Gallery',
 );
 
+// this is the switch for homework 3
+
+if (isset($_GET['today'])) {
+    $today = $_GET['today'] ;
+} else { 
+    $today = date('l');
+}
+
+switch($today) {
+    case 'Sunday':
+        $picture = 'sunday_book.jpeg';
+        $details = 'A captivating journey through "The Hobbit" in the magical world of Middle-earth.';
+        $book = 'The Hobbit';
+        $author = 'J.R.R. Tolkien';
+        $alt = 'The Hobbit';
+        break;
+
+    case 'Monday':
+        $picture = 'monday_book.jpeg';
+        $details = 'An inspiring novel that explores the depths of human emotions in "The Fault in Our Stars".';
+        $book = 'The Fault in Our Stars';
+        $author = 'John Green';
+        $alt = 'The Fault in Our Stars';
+        break;
+
+    case 'Tuesday':
+        $picture = 'tuesday_book.jpeg';
+        $details = 'A thrilling mystery that keeps you on the edge of your seat in "Gone Girl".';
+        $book = 'Gone Girl';
+        $author = 'Gillian Flynn';
+        $alt = 'Gone Girl';
+        break;
+
+    case 'Wednesday':
+        $picture = 'wednesday_book.jpeg';
+        $details = 'A heartwarming story about love, friendship, and second chances in "The Notebook".';
+        $book = 'The Notebook';
+        $author = 'Nicholas Sparks';
+        $alt = 'The Notebook';
+        break;
+
+    case 'Thursday':
+        $picture = 'thursday_book.jpeg';
+        $details = 'A mind-bending sci-fi adventure that explores the possibilities of the universe in "Dune".';
+        $book = 'Dune';
+        $author = 'Frank Herbert';
+        $alt = 'Dune';
+        break;
+
+    case 'Friday':
+        $picture = 'friday_book.jpeg';
+        $details = 'A laugh-out-loud comedy that takes you on a hilarious journey in "Good Omens".';
+        $book = 'Good Omens';
+        $author = 'Neil Gaiman and Terry Pratchett';
+        $alt = 'Good Omens';
+        break;
+
+    case 'Saturday':
+        $picture = 'saturday_book.jpeg';
+        $details = 'A thought-provoking memoir that shares the author\'s life experiences in "Educated".';
+        $book = 'Educated';
+        $author = 'Tara Westover';
+        $alt = 'Educated';
+        break;
+    }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -51,6 +51,14 @@ nav a {
     overflow: hidden;
 }
 
+#dailywrapper {
+    max-width: 1200px;
+    margin: 20px auto;
+    clear: both;
+    overflow: hidden;
+    color: white;
+}
+
 #hero {
     height: 400px;
     background-color: #F4F4F4;
