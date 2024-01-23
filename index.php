@@ -38,13 +38,17 @@
             <li><a href="weeks/week2/var2.php">var2.php</a></li>
             <li><a href="weeks/week2/currency-logic.php">currency-logic.php</a></li>
             <li><a href="weeks/week2/currency.php">currency.php</a></li>
+            <li><a href="weeks/week2/heredoc.php">heredoc.php</a></li>
         </ol>
         <h3>Week 3</h3>
         <ol>
-            <li><a href="">example1.php</a></li>
-            <li><a href="">example2.php</a></li>
-            <li><a href="">example3.php</a></li>
-            <li><a href="">example4.php</a></li>
+            <li><a href="weeks/week3/if.php">if.php</a></li>
+            <li><a href="weeks/week3/date.php">date.php</a></li>
+            <li><a href="weeks/week3/for-each.php">for-each.php</a></li>
+            <li><a href="weeks/week3/for-loops.php">for-loops.php</a></li>
+            <li><a href="weeks/week3/switch.php">switch.php</a></li>
+            <li><a href="weeks/week3/index.php">index.php</a></li>
+            <li><a href="weeks/week3/about.php">about.php - not required</a></li>
         </ol>
         <h3>Week 4</h3>
         <ol>
