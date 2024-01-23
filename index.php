@@ -27,8 +27,8 @@
         <p>In this class, I'm hoping to gain a comprehensive understanding of web design and further refine my skills in this area. As someone with a background in tech startups and non-technical roles, I believe enhancing my web design skills will contribute significantly to my career growth.</p>     
         <p>My career aspirations align with the program at Seattle Central as I aim to incorporate web design into my skill set. With 11 years of experience in non-technical roles at tech startups, including my recent role as Chief of Staff at Flox, I've gained proficiency in operations, management, customer success, and strategic planning. <p>I've been involved in people operations, talent acquisition, and business administration, contributing to the success of companies like Wingz, Postmates, and Zipcar.</p>
         <p>An additional point worth noting is my passion outdoor activities like biking, camping, and traveling. This diversity in interests and experiences helps me approach challenges with a creative and adaptable mindset.</p>
-        <img id="screen" src="images/MAMP.png" alt="MAMP Confirmation Screenshot">
-        <img id="screen" src="images/array.png" alt="Array Confirmation Screenshot">
+        <img class="screen" src="images/MAMP.png" alt="MAMP Confirmation Screenshot">
+        <img class="screen" src="images/array.png" alt="Array Confirmation Screenshot">
     </main>
     <aside>
         <h2>Weekly Class Excercises</h2>
