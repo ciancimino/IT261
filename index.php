@@ -52,18 +52,20 @@
         </ol>
         <h3>Week 4</h3>
         <ol>
-            <li><a href="">example1.php</a></li>
-            <li><a href="">example2.php</a></li>
-            <li><a href="">example3.php</a></li>
-            <li><a href="">example4.php</a></li>
+            <li><a href="weeks/week4/form1.php">form1.php</a></li>
+            <li><a href="weeks/week4/form2.php">form2.php</a></li>
+            <li><a href="weeks/week4/form3.php">form3.php</a></li>
+            <li><a href="weeks/week4/form-get.php">form-get.php</a></li>
+            <li><a href="weeks/week4/celcius.php">celcius.php</a></li>
+            <li><a href="weeks/week4/arithmetic-form.php">arithmetic-form.php</a></li>
         </ol>
-        <h3>Week 5</h3>
+        <!-- <h3>Week 5</h3>
         <ol>
             <li><a href="">example1.php</a></li>
             <li><a href="">example2.php</a></li>
             <li><a href="">example3.php</a></li>
             <li><a href="">example4.php</a></li>
-        </ol>
+        </ol> -->
 
     </aside>
 </div>
