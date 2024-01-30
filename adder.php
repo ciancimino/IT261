@@ -55,7 +55,7 @@
     $myTotal = $num1 + $num2;
     // removed spaces a changed " to ' 
     echo '<h2>You added '.$num1.' and '.$num2.'</h2>';
-    // added span to style and removed extra " 
+    // added span to style and removed extra "'s
     echo '<p><span style="color: black">and the answer is</span><br><span style="color: red">'.$myTotal.'</span><span style="color: black">!</span></p>';
     // added space after echo and closed p tag
     echo '<p><a href="">Reset page</a></p>';
