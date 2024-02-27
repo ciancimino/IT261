@@ -212,7 +212,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
         $_POST['contact_option'],
         $_POST['days']
     )) {
-        $to = 'alexnciancimino@gmail.com';
+        $to = 'szemeo@mystudentswa.com';
         $subject = 'Test email on '.date('m/d/y, h i A');
         $body = '
         First Name: '.$first_name.' '.PHP_EOL.'
