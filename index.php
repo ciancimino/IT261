@@ -76,7 +76,7 @@
         <h3>Week 7</h3>
         <ol>
             <li><a href="weeks/week7/form3.php">form3.php</a></li>
-            <li><a href="">example2.php</a></li>
+            <li><a href="weeks/week7/strings.php">strings.php</a></li>
             <li><a href="">example3.php</a></li>
             <li><a href="">example4.php</a></li>
         </ol> 
