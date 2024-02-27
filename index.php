@@ -73,13 +73,13 @@
             <li><a href="weeks/week6/functions.php">functions.php</a></li>
         </ol> 
 
-        <!-- <h3>Week 7</h3>
+        <h3>Week 7</h3>
         <ol>
-            <li><a href="">example1.php</a></li>
+            <li><a href="weeks/week7/form3.php">form3.php</a></li>
             <li><a href="">example2.php</a></li>
             <li><a href="">example3.php</a></li>
             <li><a href="">example4.php</a></li>
-        </ol> -->
+        </ol> 
 
     </aside>
 </div>
