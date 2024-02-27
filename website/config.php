@@ -197,7 +197,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
     function my_days($days) {
         $my_return='';
         if(!empty($_POST['days'])) {
-            $my_return = implode(',' , $_POST['days']);
+            $my_return = implode(', ' , $_POST['days']);
         }
         return $my_return;
     }
@@ -212,19 +212,19 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
         $_POST['contact_option'],
         $_POST['days']
     )) {
-        $to = 'alexandranciancimino@gmail.com';
+        $to = 'alexnciancimino@gmail.com';
         $subject = 'Test email on '.date('m/d/y, h i A');
         $body = '
         First Name: '.$first_name.' '.PHP_EOL.'
         Last Name: '.$last_name.' '.PHP_EOL.'
         Email: '.$email.' '.PHP_EOL.'
         Phone: '.$phone.' '.PHP_EOL.'
-        Contact Method: '.$scontact_option.' '.PHP_EOL.'
+        Contact Method: '.$contact_option.' '.PHP_EOL.'
         Available: '.my_days($days).' '.PHP_EOL.'
         ';
 
         $header = array(
-            'From' => 'noreply.alexandranciancimino@gmail.com'
+            'From' => 'alexandranciancimino@gmail.com'
         );
 
         if(!empty(
