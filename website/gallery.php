@@ -15,7 +15,7 @@ include 'chart.php';
     </main>
     <aside id="contactaside">
         <h3>Follow me on Medium!</h3>
-        <p>You can find my Medium Profile <a href="https://badcitizens.medium.com/" alt="Alexandra Ciancimino's Medium Profile Link">here</a></p>
+        <p>You can find my Medium Profile <a href="https://badcitizens.medium.com/" title="Alexandra Ciancimino's Medium Profile Link">here</a></p>
     </aside>    
 </div>
 
