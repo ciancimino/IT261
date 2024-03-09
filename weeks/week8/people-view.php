@@ -57,13 +57,13 @@ include('includes/header.php');
     <li><b>Occupation:</b> '.$occupation.'</li>
     ';
     ?>
+</ul>
     <p>
         <?php echo $details;?>
     </p>
     <p>
         Return to our <a href="people.php">people page</a>
     </p>
-</ul>
 
 </main>
 
@@ -77,7 +77,7 @@ include('includes/header.php');
     </figure>
 </aside>
 
-</div>
+
 <!-- end wraper -->
 
 <?php 
