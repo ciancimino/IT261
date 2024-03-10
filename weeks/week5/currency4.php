@@ -106,7 +106,7 @@
                 </div>';
                 
             } else {
-                echo '<div class="box">
+                echo '<div class="box2">
                 
                 <h2>Aw man! I AM SAD because I only have <b>$'.number_format($dollars, 2).'</b> American Dollars! </h2>
                 
