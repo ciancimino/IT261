@@ -88,6 +88,16 @@
             <li><a href="weeks/week8/config.phpp">config.php</a></li>
         </ol> 
 
+        <h3>Week 9</h3>
+        <ol>
+            <li><a href="weeks/week9/login.php">login.php</a></li>
+            <li><a href="weeks/week9/register.php">register.php</a></li>
+            <li><a href="weeks/week9/index.phpp">index.php</a></li>
+            <li><a href="weeks/week9/config.phpp">config.php</a></li>
+            <li><a href="weeks/week9/errors.phpp">errors.php</a></li>
+            <li><a href="weeks/week9/server.phpp">server.php</a></li>
+        </ol> 
+
     </aside>
 </div>
 <!-- end wrapper -->
